@@ -5,3 +5,4 @@
 * Pycharm IDE: venv is automatically setup in new versions 
 * Use tokens for GitHub OAuth
 * Update all dependencies (minitorch) to latest version in current directory ` python -m pip install -Ue . ` 
+* Pytest + Pycharm: [Link](https://www.jetbrains.com/help/pycharm/pytest.html)
